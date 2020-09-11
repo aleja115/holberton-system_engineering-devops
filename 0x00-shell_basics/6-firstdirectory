@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /tmp/ \n
+mkdir holberton
+
