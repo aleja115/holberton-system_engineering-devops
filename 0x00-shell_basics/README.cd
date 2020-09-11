@@ -1,13 +1,15 @@
-Script Where am I?
+0. Script Where am I?
 
 This script contains the commands to print the current path of the 0-current_working_directory file
 
-Script Whats in there?
-
+1. Script Whats in there?
 
 this script tries to print the contents of the current directory 
 
-Script There is no place like home
-
+2. Script There is no place like home
 
 return to the starting route
+
+3. Script The long format 
+
+The long format 
