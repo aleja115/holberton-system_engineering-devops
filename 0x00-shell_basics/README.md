@@ -17,3 +17,7 @@ The long format
 4-listmorefiles
 
 Script Hidden files
+
+5-listfilesdigitonly
+
+list numeric user and group IDs
