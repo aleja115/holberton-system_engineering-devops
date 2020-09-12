@@ -1,4 +1,2 @@
 #!/bin/bash
-cd /tmp/ \n
-mkdir holberton
-
+cd /tmp/ mkdir holberton
