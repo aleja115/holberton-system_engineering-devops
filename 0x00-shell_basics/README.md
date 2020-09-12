@@ -21,3 +21,7 @@ Script Hidden files
 5-listfilesdigitonly
 
 list numeric user and group IDs
+
+6-firstdirectory
+
+create a directory from another directory
