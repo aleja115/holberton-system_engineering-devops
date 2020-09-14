@@ -25,3 +25,6 @@ list numeric user and group IDs
 6-firstdirectory
 
 create a directory from another directory
+
+11-lists
+create command for list
